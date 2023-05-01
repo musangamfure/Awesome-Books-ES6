@@ -27,11 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Awesome Books] <a name="about-project"></a>
+# 📖 Awesome Books<a name="about-project"></a>
 
-> The Awesome books Websites creates a catalogue of one's favorite books
-
-**[Awesome Books]** is a books catalogue
+**Awesome Books** is a books catalogue that allow users to add and remove their favorate books.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,21 +43,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[User can Add books]**
 - **[User can remove books]**
 - **[Books are stored in local storage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Page can be viewed by opening the index.html on your browser
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started
 
 To get a local copy up and running, follow these steps.
 
@@ -83,19 +73,11 @@ git clone https://github.com/musagamfure/Awesome-books.git
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Musangamfura Emmanuel**
 
 - GitHub: [@musangamfure](https://github.com/musangamfure)
 - Twitter: [@musangamfure](https://twitter.com/musangamfure)
 - LinkedIn: [@Musangamfura Emmanuel](https://www.linkedin.com/in/musangamfura-emmanuel-6a214a262/)
-
-👤 **John Thiongo**
-
-- GitHub: [@githubhandle](https://github.com/tjay1760)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-thiongo-10484347/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,11 +85,9 @@ git clone https://github.com/musagamfure/Awesome-books.git
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Adding Navigation Menu]**
-- [ ] **[User friendly Styling]**
-- [ ] **[Adding navigation Menu]**
+- [ ] **Add user dashboard**
+- [ ] **Add admin dashboard**
+- [ ] **Add more styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,8 +104,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project give it a ⭐️
 
